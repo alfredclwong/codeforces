@@ -13,8 +13,8 @@ using namespace std;
 #define mp make_pair
 #define fi first
 #define se second
-#define For(i,j,k) for (int i=(int)(j);i<(int)(k);i++)
-#define Rep(i,j,k) for (int i=(int)(j);i>=(int)(k);i--)
+#define For(i,j,k) for (int i=(int)(j);i<(int)(k);++i)
+#define Rep(i,j,k) for (int i=(int)(j);i>=(int)(k);--i)
 #define nosync ios::sync_with_stdio(false)
 int main(){
 
