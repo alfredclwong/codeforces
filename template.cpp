@@ -16,6 +16,7 @@ using namespace std;
 #define For(i,j,k) for (int i=(int)(j);i<(int)(k);i++)
 #define Rep(i,j,k) for (int i=(int)(j);i>=(int)(k);i--)
 #define nosync ios::sync_with_stdio(false)
-int main(){
+int main() {
+    nosync;
 
 }
